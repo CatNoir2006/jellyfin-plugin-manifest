@@ -1,0 +1,20 @@
+[
+    {
+        "category": "General",
+        "guid": "a31b415a-5264-419d-b152-8c8192a54994",
+        "name": "Mediathek Downloader",
+        "description": "Mit dem Plugin kann man die Mediatheken der \u00f6ffentlich-rechtlichen Sender in Deutschland durchsuchen und Inhalte herunterladen. F\u00fcr die suche wird die MediathekViewWeb-API verwendet. Der Videos werden direkt \u00fcber die Original-URLs der Sender heruntergeladen. Es k\u00f6nnen Abos anglegt werden um z.B. Serien automatisch herunterzuladen.\n",
+        "owner": "jellyfin",
+        "overview": "Sucht und l\u00e4dt Inhalte aus den Mediatheken \u00fcber die MediathekViewWeb-API.",
+        "versions": [
+            {
+                "version": "V0.1.0.0-Alpha",
+                "changelog": "**Full Changelog**: https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/commits/V0.1.0.0-Alpha",
+                "timestamp": "2025-12-06T12:09:15Z",
+                "sourceUrl": "https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/releases/download/V0.1.0.0-Alpha/mediathek-downloader_0.1.0.0.zip",
+                "checksum": "fc140b79ded46faf43c8ae38e13f8199",
+                "targetAbi": "10.11.0.0"
+            }
+        ]
+    }
+]
