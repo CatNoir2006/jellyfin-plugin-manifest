@@ -7,14 +7,6 @@
         "owner": "jellyfin",
         "overview": "Sucht und l\u00e4dt Inhalte aus den Mediatheken \u00fcber die MediathekViewWeb-API.",
         "versions": [
-            {
-                "version": "0.1.0.0",
-                "changelog": "**Full Changelog**: https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/commits/V0.1.0.0-Alpha",
-                "timestamp": "2025-12-06T12:09:15Z",
-                "sourceUrl": "https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/releases/download/V0.1.0.0-Alpha/mediathek-downloader_0.1.0.0.zip",
-                "checksum": "fc140b79ded46faf43c8ae38e13f8199",
-                "targetAbi": "10.11.0.0"
-            }
         ]
     }
 ]
