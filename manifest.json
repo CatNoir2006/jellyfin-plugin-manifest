@@ -8,6 +8,14 @@
         "overview": "Sucht und l\u00e4dt Inhalte aus den Mediatheken \u00fcber die MediathekViewWeb-API.",
         "versions": [
             {
+                "version": "0.2.0.0",
+                "changelog": "## What's Changed\r\n* feat: Add Advanced Subscription Options & Progress Reporting; Fix QueryField Config Overwrites and Refactoring by @CatNoir2006 in https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/pull/1\r\n* Code Refactoring\r\nNew Features:\r\n- [feat: Improve progress reporting for ScheduledTask](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/commit/47b492b956cb6ca4d95c8650d1392cf8b9dc842d)\r\n- [feat(config): Conditionally hide and uncheck dependent subscription options](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/commit/327f55aa90cbd5c7e976513bc7c3ff129f2239fa)\r\n- [Feat: Add option to download full video for secondary audio languages](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/commit/64b83eb27e5a81ba927121226de77cf0f1e29edf)\r\n\r\nFixes:\r\n- [fix: Prevent QueryFields in subscriptions from being overwritten by defaults on config load](https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/commit/7e1bb92febbe44ca46ef75f729ec882d6126973c)\r\n\r\n\r\n## New Contributors\r\n* @CatNoir2006 made their first contribution in https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/pull/1\r\n\r\n**Full Changelog**: https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/compare/v0.1.0.0-Test2...v0.2.0.0\r\n\r\n## What's Changed\r\n* feat: Add Advanced Subscription Options & Progress Reporting; Fix QueryField Config Overwrites and Refactoring by @CatNoir2006 in https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/pull/1\r\n\r\n## New Contributors\r\n* @CatNoir2006 made their first contribution in https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/pull/1\r\n\r\n**Full Changelog**: https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/compare/v0.1.0.0-Test2...v0.2.0.0",
+                "timestamp": "2025-12-07T01:10:00Z",
+                "sourceUrl": "https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/releases/download/v0.2.0.0/mediathek-downloader_0.2.0.0.zip",
+                "checksum": "1a153980588f9a7f26eb029cd9e7f95c",
+                "targetAbi": "10.11.0.0"
+            },
+            {
                 "version": "0.1.0.0",
                 "changelog": "**Full Changelog**: https://github.com/CatNoir2006/jellyfin-plugin-MediathekViewDL/compare/v0.1.0.0-Test...v0.1.0.0-Test2",
                 "timestamp": "2025-12-06T17:22:12Z",
